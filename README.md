@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/HPMkVXigXN44ZSJAqZ3dbY">
-    <img alt=Support height="250" src="https://telegra.ph/file/1dc10a39146c80069a439.jpg"> 
+    <img alt=Support height="250" src="https://telegra.ph/file/34f698e107f1324c6014c.jpg"> 
     </p>
 <h1 align="center">    MOZZ MD
 </h1>
