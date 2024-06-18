@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/HPMkVXigXN44ZSJAqZ3dbY">
-    <img alt=Support height="250" src="https://telegra.ph/file/34f698e107f1324c6014c.jpg"> 
+    <img alt=Support height="450" src="https://telegra.ph/file/34f698e107f1324c6014c.jpg"> 
     </p>
 <h1 align="center">    MOZZ MD
 </h1>
@@ -35,10 +35,11 @@
 </p>
 
 ---
-***Scan QR Code***
+***Get session Id***
 
 1. ***Get [SESSION-ID](https://session-dnke.onrender.com/qr) by pairing code. `Whatapp>Three dots>Linked Devices****
-2. . ***GET [PAIR CODE](https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9) currently not working please use session id cause it works best***
+
+
 --- 
  ***Fork Repo***
 2. ***Click [FORK](https://github.com/mose9679/mozz-md/fork)***
